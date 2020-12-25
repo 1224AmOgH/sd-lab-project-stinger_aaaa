@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "146828957306",
+    "project_id": "brewcof-9cfbd",
+    "storage_bucket": "brewcof-9cfbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146828957306:android:aef8c5dae159aef8374dc3",
+        "android_client_info": {
+          "package_name": "com.amogh.coffee_maker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146828957306-ro452k451tqp0rk646k4m4tag7lvc37j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlE9k5X0d0wat-FBJznKtyD88W767WLKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146828957306-ro452k451tqp0rk646k4m4tag7lvc37j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
