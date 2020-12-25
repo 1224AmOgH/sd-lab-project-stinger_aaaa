@@ -1,5 +1,6 @@
 <header>
   <h1 class="gradient-text">The Beans</h1>
+  <h2 class="gradient-text">Aashit-2GI18CS002|Amogh-2GI18CS019|Anirudha-2GI18CS026|Ashish-2GI18CS031</h2>
    <h2 class="gradient-text">INTRODUCTION</h2>
   Our mobile application “The Beans” is an application created for convenience
 to pay,order and skip the fuss of queueing for payment and ordering coffee at
